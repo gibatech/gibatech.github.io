@@ -39,26 +39,6 @@ Quando precisamos realizar alterações em um sistema já desenvolvido, mas desc
     </item>
     
     <item>
-      <title>Automação de Build</title>
-      <link>https://gibatech.lptn.com.br/posts/cloud/comandos-uteis/</link>
-      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://gibatech.lptn.com.br/posts/cloud/comandos-uteis/</guid>
-      <description>gsutil -m rsync -R public gs://inova.poa.br
-gsutil web set -m index.html -e 404.html gs://inova.poa.br gsutil defacl ch -u allUsers:READER gs://inova.poa.br gsutil -m acl ch -r -u AllUsers:R gs://inova.poa.br</description>
-    </item>
-    
-    <item>
-      <title>Automação de Build</title>
-      <link>https://gibatech.lptn.com.br/posts/linux/comandos-uteis/</link>
-      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://gibatech.lptn.com.br/posts/linux/comandos-uteis/</guid>
-      <description>Este é um guia de comando úteis para utilização em ambiente Linux. São basicamente minhas notas de aula utilizadas durante os treinamentos que ministrava, mas podem ser úteis em vários contextos.
-Rede Arquivos e pastas importantes: /etc/syconfig/network-scripts/ /etc/hosts /etc/host.conf /etc/resolv.conf Comandos dhClient: Autoconfiguração de rede. Se você estiver em uma máquina sem internet e precisar de uma configuração automática e rápida, tente este comando. /etc/rc.d/init.d/network stop ou start: Para ou inicia um serviço de sistema.</description>
-    </item>
-    
-    <item>
       <title>Java: Ambiente de desenvolvimento</title>
       <link>https://gibatech.lptn.com.br/posts/ferramentas/instalacao-ferramentas/</link>
       <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>

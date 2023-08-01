@@ -28,41 +28,5 @@ Para que serve AssertJ é uma biblioteca Java que fornece um conjunto rico de as
 Funcionalidades Asserções com recursos do Java 8 Mensagens de erro descritivas Conjuntos de asserções (SoftAssertions) Iniciando uma asserção .assertThat(resultado) // Tudo inicia a partir do assertThat() .</description>
     </item>
     
-    <item>
-      <title>Hibernate</title>
-      <link>https://gibatech.lptn.com.br/bibliotecas/persistencia/hibernate/</link>
-      <pubDate>Wed, 25 Aug 2021 12:00:00 -0300</pubDate>
-      
-      <guid>https://gibatech.lptn.com.br/bibliotecas/persistencia/hibernate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JUnit</title>
-      <link>https://gibatech.lptn.com.br/bibliotecas/testes/junit/</link>
-      <pubDate>Wed, 25 Aug 2021 12:00:00 -0300</pubDate>
-      
-      <guid>https://gibatech.lptn.com.br/bibliotecas/testes/junit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Map Struct</title>
-      <link>https://gibatech.lptn.com.br/bibliotecas/geradores/map-struct/</link>
-      <pubDate>Wed, 25 Aug 2021 12:00:00 -0300</pubDate>
-      
-      <guid>https://gibatech.lptn.com.br/bibliotecas/geradores/map-struct/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mockito</title>
-      <link>https://gibatech.lptn.com.br/bibliotecas/testes/mockito/</link>
-      <pubDate>Wed, 25 Aug 2021 12:00:00 -0300</pubDate>
-      
-      <guid>https://gibatech.lptn.com.br/bibliotecas/testes/mockito/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

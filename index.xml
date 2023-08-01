@@ -78,42 +78,6 @@ Funcionalidades Asserções com recursos do Java 8 Mensagens de erro descritivas
     </item>
     
     <item>
-      <title>Hibernate</title>
-      <link>https://gibatech.lptn.com.br/bibliotecas/persistencia/hibernate/</link>
-      <pubDate>Wed, 25 Aug 2021 12:00:00 -0300</pubDate>
-      
-      <guid>https://gibatech.lptn.com.br/bibliotecas/persistencia/hibernate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JUnit</title>
-      <link>https://gibatech.lptn.com.br/bibliotecas/testes/junit/</link>
-      <pubDate>Wed, 25 Aug 2021 12:00:00 -0300</pubDate>
-      
-      <guid>https://gibatech.lptn.com.br/bibliotecas/testes/junit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Map Struct</title>
-      <link>https://gibatech.lptn.com.br/bibliotecas/geradores/map-struct/</link>
-      <pubDate>Wed, 25 Aug 2021 12:00:00 -0300</pubDate>
-      
-      <guid>https://gibatech.lptn.com.br/bibliotecas/geradores/map-struct/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mockito</title>
-      <link>https://gibatech.lptn.com.br/bibliotecas/testes/mockito/</link>
-      <pubDate>Wed, 25 Aug 2021 12:00:00 -0300</pubDate>
-      
-      <guid>https://gibatech.lptn.com.br/bibliotecas/testes/mockito/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Spring Boot</title>
       <link>https://gibatech.lptn.com.br/frameworks/spring-boot/</link>
       <pubDate>Wed, 25 Aug 2021 12:00:00 -0300</pubDate>
@@ -143,26 +107,6 @@ Também incorro no erro de chamar de construção de novos legados quando vejo c
       <guid>https://gibatech.lptn.com.br/posts/codigo/voce-esta-organizando-e-nomeando-seu-codigo-corretamente/</guid>
       <description>Fala-se sobre Código Limpo há algum tempo, sobre funcionalidades que melhoram a legibilidade do código e bibliotecas que agilizam e deixam o código menor e, às vezes, melhor. Mas há questões bem mais fundamentais que não podem ser esquecidas ou despriorizadas em relação àqueles assuntos mais populares, entre eles, a nomenclatura de tudo o que está sendo escrito.
 Quando precisamos realizar alterações em um sistema já desenvolvido, mas desconhecido, temos a necessidade de avaliar, como um todo, quais são suas funcionalidades.</description>
-    </item>
-    
-    <item>
-      <title>Automação de Build</title>
-      <link>https://gibatech.lptn.com.br/posts/cloud/comandos-uteis/</link>
-      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://gibatech.lptn.com.br/posts/cloud/comandos-uteis/</guid>
-      <description>gsutil -m rsync -R public gs://inova.poa.br
-gsutil web set -m index.html -e 404.html gs://inova.poa.br gsutil defacl ch -u allUsers:READER gs://inova.poa.br gsutil -m acl ch -r -u AllUsers:R gs://inova.poa.br</description>
-    </item>
-    
-    <item>
-      <title>Automação de Build</title>
-      <link>https://gibatech.lptn.com.br/posts/linux/comandos-uteis/</link>
-      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://gibatech.lptn.com.br/posts/linux/comandos-uteis/</guid>
-      <description>Este é um guia de comando úteis para utilização em ambiente Linux. São basicamente minhas notas de aula utilizadas durante os treinamentos que ministrava, mas podem ser úteis em vários contextos.
-Rede Arquivos e pastas importantes: /etc/syconfig/network-scripts/ /etc/hosts /etc/host.conf /etc/resolv.conf Comandos dhClient: Autoconfiguração de rede. Se você estiver em uma máquina sem internet e precisar de uma configuração automática e rápida, tente este comando. /etc/rc.d/init.d/network stop ou start: Para ou inicia um serviço de sistema.</description>
     </item>
     
     <item>
