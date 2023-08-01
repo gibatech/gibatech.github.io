@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>cloud on GibaTech</title>
+    <link>https://gibatech.lptn.com.br/categories/cloud/</link>
+    <description>Recent content in cloud on GibaTech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 12 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://gibatech.lptn.com.br/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automação de Build</title>
+      <link>https://gibatech.lptn.com.br/posts/cloud/comandos-uteis/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/posts/cloud/comandos-uteis/</guid>
+      <description>gsutil -m rsync -R public gs://inova.poa.br
+gsutil web set -m index.html -e 404.html gs://inova.poa.br gsutil defacl ch -u allUsers:READER gs://inova.poa.br gsutil -m acl ch -r -u AllUsers:R gs://inova.poa.br</description>
+    </item>
+    
+  </channel>
+</rss>

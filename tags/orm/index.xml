@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>orm on GibaTech</title>
+    <link>https://gibatech.lptn.com.br/tags/orm/</link>
+    <description>Recent content in orm on GibaTech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 22 Mar 2022 00:00:00 -0300</lastBuildDate><atom:link href="https://gibatech.lptn.com.br/tags/orm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spring Data</title>
+      <link>https://gibatech.lptn.com.br/frameworks/spring/data/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/frameworks/spring/data/</guid>
+      <description>O Spring Data é uma abstração criada pelo Spring para interigirmos com dados, sejam de fontes relacionais ou não relacionais. Além de fornecer as operações mais comuns como listar ou salvar prontas, também provê formas mais práticas de personalizar novos tipos de operações.
+1. Recursos Suporte a bancos relacionais e vários não relacionais Interfaces prontas para uso Anotações para personalização Materiais em vídeo: Fizemos uma seleção dentre os vídeos para ajudá-lo a entender mais sobre o assunto:</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>assertj on GibaTech</title>
+    <link>https://gibatech.lptn.com.br/tags/assertj/</link>
+    <description>Recent content in assertj on GibaTech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 25 Aug 2021 12:00:00 -0300</lastBuildDate><atom:link href="https://gibatech.lptn.com.br/tags/assertj/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AssertJ</title>
+      <link>https://gibatech.lptn.com.br/bibliotecas/testes/asssertj/</link>
+      <pubDate>Wed, 25 Aug 2021 12:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/bibliotecas/testes/asssertj/</guid>
+      <description>Asserções de forma fluída para o Java.
+Para que serve AssertJ é uma biblioteca Java que fornece um conjunto rico de asserções e mensagens de erro verdadeiramente úteis, melhora a legibilidade do código de teste e é projetada para ser fácil de usar em seu IDE favorito.
+Funcionalidades Asserções com recursos do Java 8 Mensagens de erro descritivas Conjuntos de asserções (SoftAssertions) Iniciando uma asserção .assertThat(resultado) // Tudo inicia a partir do assertThat() .</description>
+    </item>
+    
+  </channel>
+</rss>

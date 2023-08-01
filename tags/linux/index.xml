@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>linux on GibaTech</title>
+    <link>https://gibatech.lptn.com.br/tags/linux/</link>
+    <description>Recent content in linux on GibaTech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 12 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://gibatech.lptn.com.br/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automação de Build</title>
+      <link>https://gibatech.lptn.com.br/posts/linux/comandos-uteis/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/posts/linux/comandos-uteis/</guid>
+      <description>Este é um guia de comando úteis para utilização em ambiente Linux. São basicamente minhas notas de aula utilizadas durante os treinamentos que ministrava, mas podem ser úteis em vários contextos.
+Rede Arquivos e pastas importantes: /etc/syconfig/network-scripts/ /etc/hosts /etc/host.conf /etc/resolv.conf Comandos dhClient: Autoconfiguração de rede. Se você estiver em uma máquina sem internet e precisar de uma configuração automática e rápida, tente este comando. /etc/rc.d/init.d/network stop ou start: Para ou inicia um serviço de sistema.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>novidades on GibaTech</title>
+    <link>https://gibatech.lptn.com.br/categories/novidades/</link>
+    <description>Recent content in novidades on GibaTech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 03 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://gibatech.lptn.com.br/categories/novidades/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publicação do Guia Frontend</title>
+      <link>https://gibatech.lptn.com.br/posts/novidades/guia-frontend/</link>
+      <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/posts/novidades/guia-frontend/</guid>
+      <description>Passando para comunicar que incrementamos o Guia! A partir de agora temos uma seção Frontend especialmente preparada para você que está começando os estudos e está tentando entender onde se encaixa cada uma das tecnologias!
+Acesse o Guia Frontend e bons estudos!</description>
+    </item>
+    
+  </channel>
+</rss>

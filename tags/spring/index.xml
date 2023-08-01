@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>spring on GibaTech</title>
+    <link>https://gibatech.lptn.com.br/tags/spring/</link>
+    <description>Recent content in spring on GibaTech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 22 Mar 2022 00:00:00 -0300</lastBuildDate><atom:link href="https://gibatech.lptn.com.br/tags/spring/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spring Data</title>
+      <link>https://gibatech.lptn.com.br/frameworks/spring/data/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/frameworks/spring/data/</guid>
+      <description>O Spring Data é uma abstração criada pelo Spring para interigirmos com dados, sejam de fontes relacionais ou não relacionais. Além de fornecer as operações mais comuns como listar ou salvar prontas, também provê formas mais práticas de personalizar novos tipos de operações.
+1. Recursos Suporte a bancos relacionais e vários não relacionais Interfaces prontas para uso Anotações para personalização Materiais em vídeo: Fizemos uma seleção dentre os vídeos para ajudá-lo a entender mais sobre o assunto:</description>
+    </item>
+    
+    <item>
+      <title>Spring Boot - Profiles</title>
+      <link>https://gibatech.lptn.com.br/frameworks/spring/profiles/</link>
+      <pubDate>Sun, 20 Mar 2022 00:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/frameworks/spring/profiles/</guid>
+      <description>Os Profiles ou perfis de execução de uma aplicação nos permitem diferentes configurações de acordo com o ambiente ou objetivo da execução. Por exemplo, precisamos de um banco de dados H2 localmente, com certo usuário e senha, mas em produção usamos um Postgres com outro usuário e senha. Ainda, podemos ter algum teste que usa uma terceira configuração, por exemplo, com um banco desconfigurado para simular um erro de execução.</description>
+    </item>
+    
+    <item>
+      <title>Spring Boot</title>
+      <link>https://gibatech.lptn.com.br/frameworks/spring-boot/</link>
+      <pubDate>Wed, 25 Aug 2021 12:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/frameworks/spring-boot/</guid>
+      <description>Como framework principal o Spring Boot que é um dos mais estabelecidos para Java.
+Recursos: Spring Profiles Spring Data Spring Cloud Vídeo: Para conhecer melhor suas funcionalidades, esse vídeo da Alga Works explica bem para os fundamentos:
+Mais informações: https://spring.io/projects/spring-boot </description>
+    </item>
+    
+  </channel>
+</rss>

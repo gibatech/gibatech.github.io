@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>profiles on GibaTech</title>
+    <link>https://gibatech.lptn.com.br/tags/profiles/</link>
+    <description>Recent content in profiles on GibaTech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 20 Mar 2022 00:00:00 -0300</lastBuildDate><atom:link href="https://gibatech.lptn.com.br/tags/profiles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spring Boot - Profiles</title>
+      <link>https://gibatech.lptn.com.br/frameworks/spring/profiles/</link>
+      <pubDate>Sun, 20 Mar 2022 00:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/frameworks/spring/profiles/</guid>
+      <description>Os Profiles ou perfis de execução de uma aplicação nos permitem diferentes configurações de acordo com o ambiente ou objetivo da execução. Por exemplo, precisamos de um banco de dados H2 localmente, com certo usuário e senha, mas em produção usamos um Postgres com outro usuário e senha. Ainda, podemos ter algum teste que usa uma terceira configuração, por exemplo, com um banco desconfigurado para simular um erro de execução.</description>
+    </item>
+    
+  </channel>
+</rss>

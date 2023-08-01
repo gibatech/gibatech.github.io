@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>npm on GibaTech</title>
+    <link>https://gibatech.lptn.com.br/tags/npm/</link>
+    <description>Recent content in npm on GibaTech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 03 Nov 2022 12:00:00 -0300</lastBuildDate><atom:link href="https://gibatech.lptn.com.br/tags/npm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guia Frontend</title>
+      <link>https://gibatech.lptn.com.br/frontend/</link>
+      <pubDate>Thu, 03 Nov 2022 12:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/frontend/</guid>
+      <description>Se você está começando no mundo do desenvolvimento front-end e está procurando materiais, pode ficar confuso com a quantidade de nomenclaturas, tais como React, Next, Webpack, NPM, Yarn, Bootstrap e muitas outras. Realmente, há muitas tecnologias envolvidas nesse processo, mas esta página tem como objetivo esclarecer um pouco mais sobre cada uma delas.
+Assim como no desenvolvimento de backend, o front-end também está se tornando cada vez mais complexo e exigente.</description>
+    </item>
+    
+  </channel>
+</rss>

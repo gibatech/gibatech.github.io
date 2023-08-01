@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on GibaTech</title>
+    <link>https://gibatech.lptn.com.br/tags/</link>
+    <description>Recent content in Tags on GibaTech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 03 Nov 2022 12:00:00 -0300</lastBuildDate><atom:link href="https://gibatech.lptn.com.br/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>frontend</title>
+      <link>https://gibatech.lptn.com.br/tags/frontend/</link>
+      <pubDate>Thu, 03 Nov 2022 12:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/tags/frontend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>next</title>
+      <link>https://gibatech.lptn.com.br/tags/next/</link>
+      <pubDate>Thu, 03 Nov 2022 12:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/tags/next/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>npm</title>
+      <link>https://gibatech.lptn.com.br/tags/npm/</link>
+      <pubDate>Thu, 03 Nov 2022 12:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/tags/npm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>react</title>
+      <link>https://gibatech.lptn.com.br/tags/react/</link>
+      <pubDate>Thu, 03 Nov 2022 12:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/tags/react/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>webpack</title>
+      <link>https://gibatech.lptn.com.br/tags/webpack/</link>
+      <pubDate>Thu, 03 Nov 2022 12:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/tags/webpack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>backend</title>
+      <link>https://gibatech.lptn.com.br/tags/backend/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/tags/backend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data</title>
+      <link>https://gibatech.lptn.com.br/tags/data/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/tags/data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>orm</title>
+      <link>https://gibatech.lptn.com.br/tags/orm/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/tags/orm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>persistencia</title>
+      <link>https://gibatech.lptn.com.br/tags/persistencia/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/tags/persistencia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spring</title>
+      <link>https://gibatech.lptn.com.br/tags/spring/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/tags/spring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>profiles</title>
+      <link>https://gibatech.lptn.com.br/tags/profiles/</link>
+      <pubDate>Sun, 20 Mar 2022 00:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/tags/profiles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>apache-kafka</title>
+      <link>https://gibatech.lptn.com.br/tags/apache-kafka/</link>
+      <pubDate>Mon, 03 Jan 2022 12:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/tags/apache-kafka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>geradores</title>
+      <link>https://gibatech.lptn.com.br/tags/geradores/</link>
+      <pubDate>Mon, 03 Jan 2022 12:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/tags/geradores/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>integracao</title>
+      <link>https://gibatech.lptn.com.br/tags/integracao/</link>
+      <pubDate>Mon, 03 Jan 2022 12:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/tags/integracao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lombok</title>
+      <link>https://gibatech.lptn.com.br/tags/lombok/</link>
+      <pubDate>Mon, 03 Jan 2022 12:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/tags/lombok/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>assertj</title>
+      <link>https://gibatech.lptn.com.br/tags/assertj/</link>
+      <pubDate>Wed, 25 Aug 2021 12:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/tags/assertj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>frameworks</title>
+      <link>https://gibatech.lptn.com.br/tags/frameworks/</link>
+      <pubDate>Wed, 25 Aug 2021 12:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/tags/frameworks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hibernate</title>
+      <link>https://gibatech.lptn.com.br/tags/hibernate/</link>
+      <pubDate>Wed, 25 Aug 2021 12:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/tags/hibernate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>junit</title>
+      <link>https://gibatech.lptn.com.br/tags/junit/</link>
+      <pubDate>Wed, 25 Aug 2021 12:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/tags/junit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>map-struct</title>
+      <link>https://gibatech.lptn.com.br/tags/map-struct/</link>
+      <pubDate>Wed, 25 Aug 2021 12:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/tags/map-struct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mockito</title>
+      <link>https://gibatech.lptn.com.br/tags/mockito/</link>
+      <pubDate>Wed, 25 Aug 2021 12:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/tags/mockito/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>persistência</title>
+      <link>https://gibatech.lptn.com.br/tags/persist%C3%AAncia/</link>
+      <pubDate>Wed, 25 Aug 2021 12:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/tags/persist%C3%AAncia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spring-boot</title>
+      <link>https://gibatech.lptn.com.br/tags/spring-boot/</link>
+      <pubDate>Wed, 25 Aug 2021 12:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/tags/spring-boot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>testes</title>
+      <link>https://gibatech.lptn.com.br/tags/testes/</link>
+      <pubDate>Wed, 25 Aug 2021 12:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/tags/testes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>boas práticas</title>
+      <link>https://gibatech.lptn.com.br/tags/boas-pr%C3%A1ticas/</link>
+      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/tags/boas-pr%C3%A1ticas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>clean code</title>
+      <link>https://gibatech.lptn.com.br/tags/clean-code/</link>
+      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/tags/clean-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>código</title>
+      <link>https://gibatech.lptn.com.br/tags/c%C3%B3digo/</link>
+      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/tags/c%C3%B3digo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>teste</title>
+      <link>https://gibatech.lptn.com.br/tags/teste/</link>
+      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/tags/teste/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>comandos</title>
+      <link>https://gibatech.lptn.com.br/tags/comandos/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/tags/comandos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://gibatech.lptn.com.br/tags/linux/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>intellij</title>
+      <link>https://gibatech.lptn.com.br/tags/intellij/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/tags/intellij/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>java</title>
+      <link>https://gibatech.lptn.com.br/tags/java/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>postman</title>
+      <link>https://gibatech.lptn.com.br/tags/postman/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/tags/postman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>build</title>
+      <link>https://gibatech.lptn.com.br/tags/build/</link>
+      <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/tags/build/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gradle</title>
+      <link>https://gibatech.lptn.com.br/tags/gradle/</link>
+      <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/tags/gradle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>maven</title>
+      <link>https://gibatech.lptn.com.br/tags/maven/</link>
+      <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/tags/maven/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sdkman</title>
+      <link>https://gibatech.lptn.com.br/tags/sdkman/</link>
+      <pubDate>Tue, 25 Dec 2018 15:24:38 -0200</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/tags/sdkman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>guia</title>
+      <link>https://gibatech.lptn.com.br/tags/guia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/tags/guia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>padrões</title>
+      <link>https://gibatech.lptn.com.br/tags/padr%C3%B5es/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/tags/padr%C3%B5es/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>REST</title>
+      <link>https://gibatech.lptn.com.br/tags/rest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/tags/rest/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

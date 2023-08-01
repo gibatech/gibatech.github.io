@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GibaTech</title>
+    <link>https://gibatech.lptn.com.br/</link>
+    <description>Recent content on GibaTech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 03 Nov 2022 12:00:00 -0300</lastBuildDate><atom:link href="https://gibatech.lptn.com.br/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guia Frontend</title>
+      <link>https://gibatech.lptn.com.br/frontend/</link>
+      <pubDate>Thu, 03 Nov 2022 12:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/frontend/</guid>
+      <description>Se você está começando no mundo do desenvolvimento front-end e está procurando materiais, pode ficar confuso com a quantidade de nomenclaturas, tais como React, Next, Webpack, NPM, Yarn, Bootstrap e muitas outras. Realmente, há muitas tecnologias envolvidas nesse processo, mas esta página tem como objetivo esclarecer um pouco mais sobre cada uma delas.
+Assim como no desenvolvimento de backend, o front-end também está se tornando cada vez mais complexo e exigente.</description>
+    </item>
+    
+    <item>
+      <title>Publicação do Guia Frontend</title>
+      <link>https://gibatech.lptn.com.br/posts/novidades/guia-frontend/</link>
+      <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/posts/novidades/guia-frontend/</guid>
+      <description>Passando para comunicar que incrementamos o Guia! A partir de agora temos uma seção Frontend especialmente preparada para você que está começando os estudos e está tentando entender onde se encaixa cada uma das tecnologias!
+Acesse o Guia Frontend e bons estudos!</description>
+    </item>
+    
+    <item>
+      <title>Spring Data</title>
+      <link>https://gibatech.lptn.com.br/frameworks/spring/data/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/frameworks/spring/data/</guid>
+      <description>O Spring Data é uma abstração criada pelo Spring para interigirmos com dados, sejam de fontes relacionais ou não relacionais. Além de fornecer as operações mais comuns como listar ou salvar prontas, também provê formas mais práticas de personalizar novos tipos de operações.
+1. Recursos Suporte a bancos relacionais e vários não relacionais Interfaces prontas para uso Anotações para personalização Materiais em vídeo: Fizemos uma seleção dentre os vídeos para ajudá-lo a entender mais sobre o assunto:</description>
+    </item>
+    
+    <item>
+      <title>Spring Boot - Profiles</title>
+      <link>https://gibatech.lptn.com.br/frameworks/spring/profiles/</link>
+      <pubDate>Sun, 20 Mar 2022 00:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/frameworks/spring/profiles/</guid>
+      <description>Os Profiles ou perfis de execução de uma aplicação nos permitem diferentes configurações de acordo com o ambiente ou objetivo da execução. Por exemplo, precisamos de um banco de dados H2 localmente, com certo usuário e senha, mas em produção usamos um Postgres com outro usuário e senha. Ainda, podemos ter algum teste que usa uma terceira configuração, por exemplo, com um banco desconfigurado para simular um erro de execução.</description>
+    </item>
+    
+    <item>
+      <title>Apache Kafka</title>
+      <link>https://gibatech.lptn.com.br/mensageria/kafka/</link>
+      <pubDate>Mon, 03 Jan 2022 12:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/mensageria/kafka/</guid>
+      <description>O que é? Qual o uso? Bom, resumidamente o Apache Kafka é uma plataforma de mensageria que possibilita alta capacidade no envio de mensagens, possui alta tolerância e de forma distribuída. Também é Open Source e utilizada por grandes empresas com problemas em grande volumes de processamento de dados. Ficou interessado? Olhe os vídeos a seguir e bons estudos!
+Vídeos Para começar, é interessante ver esse material do O Hipsters ponto Tube.</description>
+    </item>
+    
+    <item>
+      <title>Project Lombok</title>
+      <link>https://gibatech.lptn.com.br/bibliotecas/geradores/lombok/</link>
+      <pubDate>Mon, 03 Jan 2022 12:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/bibliotecas/geradores/lombok/</guid>
+      <description>O que é? Qual o uso? A ideia deste projeto é reduzir a quantidade de código repetitivo que escrevemos no Java. Métodos de leitura e escrita de campos (getters/setters), construtores com ou sem argumentos, tudo se resume a anotações com o Lombok! Poderia ficar melhor? Sim, ele consegue criar até classes de Builders com a mesma facilitade. Dá uma olhada nesse vídeo pra conferir:
+Vídeos O Felipe Públio tem um material interessante sobre o tema:</description>
+    </item>
+    
+    <item>
+      <title>AssertJ</title>
+      <link>https://gibatech.lptn.com.br/bibliotecas/testes/asssertj/</link>
+      <pubDate>Wed, 25 Aug 2021 12:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/bibliotecas/testes/asssertj/</guid>
+      <description>Asserções de forma fluída para o Java.
+Para que serve AssertJ é uma biblioteca Java que fornece um conjunto rico de asserções e mensagens de erro verdadeiramente úteis, melhora a legibilidade do código de teste e é projetada para ser fácil de usar em seu IDE favorito.
+Funcionalidades Asserções com recursos do Java 8 Mensagens de erro descritivas Conjuntos de asserções (SoftAssertions) Iniciando uma asserção .assertThat(resultado) // Tudo inicia a partir do assertThat() .</description>
+    </item>
+    
+    <item>
+      <title>Hibernate</title>
+      <link>https://gibatech.lptn.com.br/bibliotecas/persistencia/hibernate/</link>
+      <pubDate>Wed, 25 Aug 2021 12:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/bibliotecas/persistencia/hibernate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JUnit</title>
+      <link>https://gibatech.lptn.com.br/bibliotecas/testes/junit/</link>
+      <pubDate>Wed, 25 Aug 2021 12:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/bibliotecas/testes/junit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Map Struct</title>
+      <link>https://gibatech.lptn.com.br/bibliotecas/geradores/map-struct/</link>
+      <pubDate>Wed, 25 Aug 2021 12:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/bibliotecas/geradores/map-struct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mockito</title>
+      <link>https://gibatech.lptn.com.br/bibliotecas/testes/mockito/</link>
+      <pubDate>Wed, 25 Aug 2021 12:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/bibliotecas/testes/mockito/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring Boot</title>
+      <link>https://gibatech.lptn.com.br/frameworks/spring-boot/</link>
+      <pubDate>Wed, 25 Aug 2021 12:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/frameworks/spring-boot/</guid>
+      <description>Como framework principal o Spring Boot que é um dos mais estabelecidos para Java.
+Recursos: Spring Profiles Spring Data Spring Cloud Vídeo: Para conhecer melhor suas funcionalidades, esse vídeo da Alga Works explica bem para os fundamentos:
+Mais informações: https://spring.io/projects/spring-boot </description>
+    </item>
+    
+    <item>
+      <title>Criando sistemas legados com o framework da moda</title>
+      <link>https://gibatech.lptn.com.br/posts/codigo/criando-sistemas-legados-com-o-framework-da-moda/</link>
+      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/posts/codigo/criando-sistemas-legados-com-o-framework-da-moda/</guid>
+      <description>Não é um assunto necessariamente recente, porém restam controvérsias e, sem dúvidas, ainda cabe uma opinião.
+Legados não são ruins. Ruins são as gambiarras, a ausência de testes e de boas práticas de desenvolvimento. Colocar a mesma equipe que desastrosamente sustenta um legado para criar uma nova API fresquinha, com o último framework da moda é potencializar as chances de criação de código ruim, frequentemente chamado de legado.
+Também incorro no erro de chamar de construção de novos legados quando vejo códigos escritos de qualquer forma.</description>
+    </item>
+    
+    <item>
+      <title>Você está organizando e nomeando seu código corretamente?</title>
+      <link>https://gibatech.lptn.com.br/posts/codigo/voce-esta-organizando-e-nomeando-seu-codigo-corretamente/</link>
+      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/posts/codigo/voce-esta-organizando-e-nomeando-seu-codigo-corretamente/</guid>
+      <description>Fala-se sobre Código Limpo há algum tempo, sobre funcionalidades que melhoram a legibilidade do código e bibliotecas que agilizam e deixam o código menor e, às vezes, melhor. Mas há questões bem mais fundamentais que não podem ser esquecidas ou despriorizadas em relação àqueles assuntos mais populares, entre eles, a nomenclatura de tudo o que está sendo escrito.
+Quando precisamos realizar alterações em um sistema já desenvolvido, mas desconhecido, temos a necessidade de avaliar, como um todo, quais são suas funcionalidades.</description>
+    </item>
+    
+    <item>
+      <title>Automação de Build</title>
+      <link>https://gibatech.lptn.com.br/posts/cloud/comandos-uteis/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/posts/cloud/comandos-uteis/</guid>
+      <description>gsutil -m rsync -R public gs://inova.poa.br
+gsutil web set -m index.html -e 404.html gs://inova.poa.br gsutil defacl ch -u allUsers:READER gs://inova.poa.br gsutil -m acl ch -r -u AllUsers:R gs://inova.poa.br</description>
+    </item>
+    
+    <item>
+      <title>Automação de Build</title>
+      <link>https://gibatech.lptn.com.br/posts/linux/comandos-uteis/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/posts/linux/comandos-uteis/</guid>
+      <description>Este é um guia de comando úteis para utilização em ambiente Linux. São basicamente minhas notas de aula utilizadas durante os treinamentos que ministrava, mas podem ser úteis em vários contextos.
+Rede Arquivos e pastas importantes: /etc/syconfig/network-scripts/ /etc/hosts /etc/host.conf /etc/resolv.conf Comandos dhClient: Autoconfiguração de rede. Se você estiver em uma máquina sem internet e precisar de uma configuração automática e rápida, tente este comando. /etc/rc.d/init.d/network stop ou start: Para ou inicia um serviço de sistema.</description>
+    </item>
+    
+    <item>
+      <title>Java: Ambiente de desenvolvimento</title>
+      <link>https://gibatech.lptn.com.br/posts/ferramentas/instalacao-ferramentas/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/posts/ferramentas/instalacao-ferramentas/</guid>
+      <description>As ferramentas descritas aqui são base para o desenvolvimento Java e podem ser obtidas gratuitamente (legalmente) através dos links disponibilizados
+Intellij Link: https://www.jetbrains.com/idea/download/
+Acesse a URL e faça download da versão Community para seu sistema operacional. Ele funciona da mesma forma no Linux, Mac ou Windows.
+Java Link: https://www.java.com/pt_BR/download/
+Acesse a URL e faça download para seu sistema.
+Há uma alternativa que pode ser utilizada sem problemas não vinculada à Oracle: O OpenJDK.</description>
+    </item>
+    
+    <item>
+      <title>Automação de Build</title>
+      <link>https://gibatech.lptn.com.br/posts/ferramentas/automacao-build/</link>
+      <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/posts/ferramentas/automacao-build/</guid>
+      <description>Introdução Neste tópico vamos falar sobre as ferramentas que normalmente são utilizadas em aplicações Java para tarefas rotineiras de build, como compilação, testes e cobertura, empacotamento, publicação&amp;hellip;
+As mais conhecidas ferramentas para esta finalidade são o Gradle e o Maven.
+Glossário Artefato: no contexto deste artigo, para o Java, um Artefato corresponde a uma biblioteca que é compilada a partir de outro projeto Java, resultando um arquivo de extensão JAR. Classpath: no contexto deste artigo, para o Java, o classpath é o conjunto de recursos necessários para a execução da aplicação.</description>
+    </item>
+    
+    <item>
+      <title>Ferramentas de Desenvolvimento</title>
+      <link>https://gibatech.lptn.com.br/posts/ferramentas/dev-tools-java/</link>
+      <pubDate>Tue, 25 Dec 2018 15:24:38 -0200</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/posts/ferramentas/dev-tools-java/</guid>
+      <description>Desenvolvimento JAVA em ambiente Linux: https://sdkman.io/ Permite instalar e alternar facilmente entre diferentes versões de várias ferramentas. Entre elas: Gradle, Grails, Groovy, Java, Kotlin, Maven, Scala, Spring Boot.
+Ele baixa os pacotes e deixa configuradas as variáveis de ambiente, inclusive deixando os binários no PATH para serem executados diretamente, como se fosse uma instalação diretamente no sistema principal.</description>
+    </item>
+    
+    
+    <item>
+      <title>Contato</title>
+      <link>https://gibatech.lptn.com.br/contato/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/contato/</guid>
+      <description>Envie aqui sua dúvida ou sugestão: Seu nome: Seu e-mail: Sua mensagem: Enviar </description>
+    </item>
+    
+    <item>
+      <title>Guia Backend</title>
+      <link>https://gibatech.lptn.com.br/backend/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/backend/</guid>
+      <description>O backend é a parte do sistema que trabalha em conjunto com o frontend, atuando como a &amp;ldquo;engrenagem&amp;rdquo; que executa as operações necessárias para obter, consolidar, processar e persistir informações. Toda vez que um usuário interage com o frontend, seja para obter informações ou salvar dados, o backend é acionado para executar essas tarefas.
+Assim, podemos dizer que o backend é responsável pelo processamento lógico do sistema, trabalhando em conjunto com o frontend para fornecer uma experiência completa e satisfatória para o usuário.</description>
+    </item>
+    
+    <item>
+      <title>Guia Tech</title>
+      <link>https://gibatech.lptn.com.br/guia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/guia/</guid>
+      <description>Guia de ferramentas, bibliotecas e padrões para desenvolvimento Java e Programação Web</description>
+    </item>
+    
+    
+    <item>
+      <title>REST</title>
+      <link>https://gibatech.lptn.com.br/padroes/rest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/padroes/rest/</guid>
+      <description>Padrão REST, RESTFul, APIs, JSON</description>
+    </item>
+    
+  </channel>
+</rss>

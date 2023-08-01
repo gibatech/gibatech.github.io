@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on GibaTech</title>
+    <link>https://gibatech.lptn.com.br/categories/</link>
+    <description>Recent content in Categories on GibaTech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 03 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://gibatech.lptn.com.br/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>novidades</title>
+      <link>https://gibatech.lptn.com.br/categories/novidades/</link>
+      <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/categories/novidades/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>código</title>
+      <link>https://gibatech.lptn.com.br/categories/c%C3%B3digo/</link>
+      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/categories/c%C3%B3digo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cloud</title>
+      <link>https://gibatech.lptn.com.br/categories/cloud/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/categories/cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://gibatech.lptn.com.br/categories/linux/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/categories/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ferramentas</title>
+      <link>https://gibatech.lptn.com.br/categories/ferramentas/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/categories/ferramentas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

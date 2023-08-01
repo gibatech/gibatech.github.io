@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>sdkman on GibaTech</title>
+    <link>https://gibatech.lptn.com.br/tags/sdkman/</link>
+    <description>Recent content in sdkman on GibaTech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 25 Dec 2018 15:24:38 -0200</lastBuildDate><atom:link href="https://gibatech.lptn.com.br/tags/sdkman/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ferramentas de Desenvolvimento</title>
+      <link>https://gibatech.lptn.com.br/posts/ferramentas/dev-tools-java/</link>
+      <pubDate>Tue, 25 Dec 2018 15:24:38 -0200</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/posts/ferramentas/dev-tools-java/</guid>
+      <description>Desenvolvimento JAVA em ambiente Linux: https://sdkman.io/ Permite instalar e alternar facilmente entre diferentes versões de várias ferramentas. Entre elas: Gradle, Grails, Groovy, Java, Kotlin, Maven, Scala, Spring Boot.
+Ele baixa os pacotes e deixa configuradas as variáveis de ambiente, inclusive deixando os binários no PATH para serem executados diretamente, como se fosse uma instalação diretamente no sistema principal.</description>
+    </item>
+    
+  </channel>
+</rss>

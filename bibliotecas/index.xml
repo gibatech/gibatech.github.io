@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bibliotecas on GibaTech</title>
+    <link>https://gibatech.lptn.com.br/bibliotecas/</link>
+    <description>Recent content in Bibliotecas on GibaTech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 03 Jan 2022 12:00:00 -0300</lastBuildDate><atom:link href="https://gibatech.lptn.com.br/bibliotecas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project Lombok</title>
+      <link>https://gibatech.lptn.com.br/bibliotecas/geradores/lombok/</link>
+      <pubDate>Mon, 03 Jan 2022 12:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/bibliotecas/geradores/lombok/</guid>
+      <description>O que é? Qual o uso? A ideia deste projeto é reduzir a quantidade de código repetitivo que escrevemos no Java. Métodos de leitura e escrita de campos (getters/setters), construtores com ou sem argumentos, tudo se resume a anotações com o Lombok! Poderia ficar melhor? Sim, ele consegue criar até classes de Builders com a mesma facilitade. Dá uma olhada nesse vídeo pra conferir:
+Vídeos O Felipe Públio tem um material interessante sobre o tema:</description>
+    </item>
+    
+    <item>
+      <title>AssertJ</title>
+      <link>https://gibatech.lptn.com.br/bibliotecas/testes/asssertj/</link>
+      <pubDate>Wed, 25 Aug 2021 12:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/bibliotecas/testes/asssertj/</guid>
+      <description>Asserções de forma fluída para o Java.
+Para que serve AssertJ é uma biblioteca Java que fornece um conjunto rico de asserções e mensagens de erro verdadeiramente úteis, melhora a legibilidade do código de teste e é projetada para ser fácil de usar em seu IDE favorito.
+Funcionalidades Asserções com recursos do Java 8 Mensagens de erro descritivas Conjuntos de asserções (SoftAssertions) Iniciando uma asserção .assertThat(resultado) // Tudo inicia a partir do assertThat() .</description>
+    </item>
+    
+    <item>
+      <title>Hibernate</title>
+      <link>https://gibatech.lptn.com.br/bibliotecas/persistencia/hibernate/</link>
+      <pubDate>Wed, 25 Aug 2021 12:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/bibliotecas/persistencia/hibernate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JUnit</title>
+      <link>https://gibatech.lptn.com.br/bibliotecas/testes/junit/</link>
+      <pubDate>Wed, 25 Aug 2021 12:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/bibliotecas/testes/junit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Map Struct</title>
+      <link>https://gibatech.lptn.com.br/bibliotecas/geradores/map-struct/</link>
+      <pubDate>Wed, 25 Aug 2021 12:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/bibliotecas/geradores/map-struct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mockito</title>
+      <link>https://gibatech.lptn.com.br/bibliotecas/testes/mockito/</link>
+      <pubDate>Wed, 25 Aug 2021 12:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/bibliotecas/testes/mockito/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

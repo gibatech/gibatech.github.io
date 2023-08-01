@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://gibatech.lptn.com.br/sitemap.xml

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>backend on GibaTech</title>
+    <link>https://gibatech.lptn.com.br/tags/backend/</link>
+    <description>Recent content in backend on GibaTech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 22 Mar 2022 00:00:00 -0300</lastBuildDate><atom:link href="https://gibatech.lptn.com.br/tags/backend/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spring Data</title>
+      <link>https://gibatech.lptn.com.br/frameworks/spring/data/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/frameworks/spring/data/</guid>
+      <description>O Spring Data é uma abstração criada pelo Spring para interigirmos com dados, sejam de fontes relacionais ou não relacionais. Além de fornecer as operações mais comuns como listar ou salvar prontas, também provê formas mais práticas de personalizar novos tipos de operações.
+1. Recursos Suporte a bancos relacionais e vários não relacionais Interfaces prontas para uso Anotações para personalização Materiais em vídeo: Fizemos uma seleção dentre os vídeos para ajudá-lo a entender mais sobre o assunto:</description>
+    </item>
+    
+    <item>
+      <title>Spring Boot - Profiles</title>
+      <link>https://gibatech.lptn.com.br/frameworks/spring/profiles/</link>
+      <pubDate>Sun, 20 Mar 2022 00:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/frameworks/spring/profiles/</guid>
+      <description>Os Profiles ou perfis de execução de uma aplicação nos permitem diferentes configurações de acordo com o ambiente ou objetivo da execução. Por exemplo, precisamos de um banco de dados H2 localmente, com certo usuário e senha, mas em produção usamos um Postgres com outro usuário e senha. Ainda, podemos ter algum teste que usa uma terceira configuração, por exemplo, com um banco desconfigurado para simular um erro de execução.</description>
+    </item>
+    
+    <item>
+      <title>Project Lombok</title>
+      <link>https://gibatech.lptn.com.br/bibliotecas/geradores/lombok/</link>
+      <pubDate>Mon, 03 Jan 2022 12:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/bibliotecas/geradores/lombok/</guid>
+      <description>O que é? Qual o uso? A ideia deste projeto é reduzir a quantidade de código repetitivo que escrevemos no Java. Métodos de leitura e escrita de campos (getters/setters), construtores com ou sem argumentos, tudo se resume a anotações com o Lombok! Poderia ficar melhor? Sim, ele consegue criar até classes de Builders com a mesma facilitade. Dá uma olhada nesse vídeo pra conferir:
+Vídeos O Felipe Públio tem um material interessante sobre o tema:</description>
+    </item>
+    
+    <item>
+      <title>AssertJ</title>
+      <link>https://gibatech.lptn.com.br/bibliotecas/testes/asssertj/</link>
+      <pubDate>Wed, 25 Aug 2021 12:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/bibliotecas/testes/asssertj/</guid>
+      <description>Asserções de forma fluída para o Java.
+Para que serve AssertJ é uma biblioteca Java que fornece um conjunto rico de asserções e mensagens de erro verdadeiramente úteis, melhora a legibilidade do código de teste e é projetada para ser fácil de usar em seu IDE favorito.
+Funcionalidades Asserções com recursos do Java 8 Mensagens de erro descritivas Conjuntos de asserções (SoftAssertions) Iniciando uma asserção .assertThat(resultado) // Tudo inicia a partir do assertThat() .</description>
+    </item>
+    
+    <item>
+      <title>Hibernate</title>
+      <link>https://gibatech.lptn.com.br/bibliotecas/persistencia/hibernate/</link>
+      <pubDate>Wed, 25 Aug 2021 12:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/bibliotecas/persistencia/hibernate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JUnit</title>
+      <link>https://gibatech.lptn.com.br/bibliotecas/testes/junit/</link>
+      <pubDate>Wed, 25 Aug 2021 12:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/bibliotecas/testes/junit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Map Struct</title>
+      <link>https://gibatech.lptn.com.br/bibliotecas/geradores/map-struct/</link>
+      <pubDate>Wed, 25 Aug 2021 12:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/bibliotecas/geradores/map-struct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mockito</title>
+      <link>https://gibatech.lptn.com.br/bibliotecas/testes/mockito/</link>
+      <pubDate>Wed, 25 Aug 2021 12:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/bibliotecas/testes/mockito/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring Boot</title>
+      <link>https://gibatech.lptn.com.br/frameworks/spring-boot/</link>
+      <pubDate>Wed, 25 Aug 2021 12:00:00 -0300</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/frameworks/spring-boot/</guid>
+      <description>Como framework principal o Spring Boot que é um dos mais estabelecidos para Java.
+Recursos: Spring Profiles Spring Data Spring Cloud Vídeo: Para conhecer melhor suas funcionalidades, esse vídeo da Alga Works explica bem para os fundamentos:
+Mais informações: https://spring.io/projects/spring-boot </description>
+    </item>
+    
+    <item>
+      <title>Guia Backend</title>
+      <link>https://gibatech.lptn.com.br/backend/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/backend/</guid>
+      <description>O backend é a parte do sistema que trabalha em conjunto com o frontend, atuando como a &amp;ldquo;engrenagem&amp;rdquo; que executa as operações necessárias para obter, consolidar, processar e persistir informações. Toda vez que um usuário interage com o frontend, seja para obter informações ou salvar dados, o backend é acionado para executar essas tarefas.
+Assim, podemos dizer que o backend é responsável pelo processamento lógico do sistema, trabalhando em conjunto com o frontend para fornecer uma experiência completa e satisfatória para o usuário.</description>
+    </item>
+    
+    <item>
+      <title>Guia Tech</title>
+      <link>https://gibatech.lptn.com.br/guia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gibatech.lptn.com.br/guia/</guid>
+      <description>Guia de ferramentas, bibliotecas e padrões para desenvolvimento Java e Programação Web</description>
+    </item>
+    
+  </channel>
+</rss>
